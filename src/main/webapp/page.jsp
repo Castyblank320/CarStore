@@ -12,8 +12,11 @@
         <title>JSP Page</title>
     </head>
     <body>
+        <form action="Main" method="GET">
+            <input value="Pagina principal" type="submit" />
+        </form>
         <div class="css-mt2k40 e1ymlqqi2">
-            <p><strong>SPECIFICATIONS</strong></p>
+            <p style="text-align: center; font-size: 20px"><strong>Detalles Tecnicos</strong></p>
             <p><strong>BMW M3 GTR<br></strong></p>
             <p><strong>VEHICLE TYPE</strong>&nbsp;<br>Front-engine, rear-wheel-drive, 1-passenger, 2-door race car</p>
             <p><strong>ESTIMATED PRICE AS TESTED<br></strong>$300,000</p>
